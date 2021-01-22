@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(index|profile|csv-export|about|adventures|document|login|logins|logout|register|reset-password|settings|team-joren|tools|upload|add-new|calculator|create|delete|delete-doc|edit|edit-doc|footer|head|menu|quick-links|record_update|record_submit|security|slider|user_input|calculator|all|the-wedding|kempton-park-sleepover|mtn-walk-the-talk|acrobranch|mandela-day|heritage|halloween|strategy-meeting|end-year|adventures|)$ $1.php [NC,L]
